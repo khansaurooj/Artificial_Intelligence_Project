@@ -1,1 +1,68 @@
+# Language Translation Tool
 
+This project is part of the **Code Alpha Internship** and demonstrates a basic Language Translation Tool implemented in Python. The tool allows users to translate text between multiple languages using open-source APIs and libraries.
+
+## Features
+
+- Translate text between various languages
+- Simple interface for input and output
+- Support for popular translation libraries (`googletrans`, etc.)
+- Example notebook for easy experimentation
+
+## Installation
+
+1. **Clone the repository**
+    ```bash
+    git clone https://github.com/khansaurooj/CodeAlpha_AI_Internship.git
+    cd CodeAlpha_AI_Internship/Task01(LanguageTranslationTool)
+    ```
+
+2. **Install dependencies**
+    The primary dependency is `googletrans`. Install it using pip:
+    ```bash
+    pip install googletrans==4.0.0-rc1
+    ```
+
+    If your notebook requires additional libraries, install them as needed:
+    ```bash
+    pip install ipywidgets
+    ```
+
+3. **Open the Notebook**
+    Launch Jupyter Notebook:
+    ```bash
+    jupyter notebook Task01(LanguageTranslationTool).ipynb
+    ```
+
+## Usage
+
+- Open the notebook file `Task01(LanguageTranslationTool).ipynb` in Jupyter.
+- Follow the instructions and code cells to translate text.
+- Enter your source text and select your desired source and target languages.
+- Click "Translate" to get the result.
+
+## Example
+
+```python
+from googletrans import Translator
+
+translator = Translator()
+result = translator.translate('Hello World', src='en', dest='fr')
+print(result.text)  # Output: Bonjour le monde
+```
+
+## Project Structure
+
+```
+Task01(LanguageTranslationTool)/
+├── Task01(LanguageTranslationTool).ipynb
+└── README.md
+```
+
+## Credits
+
+Developed as part of the **Code Alpha Internship**.
+
+## License
+
+This project is for educational purposes under the Code Alpha Internship program.
