@@ -97,7 +97,6 @@ Task2(Chatbot_for_FAQs)/
 
 **👩‍💻 Khansa Urooj**  
 
-Special thanks to the CodeAlpha Internship program for guidance and resources.
 
 ---
 
