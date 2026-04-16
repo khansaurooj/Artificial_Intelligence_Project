@@ -1,6 +1,5 @@
-# 🤖 Chatbot for FAQs — CodeAlpha AI Internship (Task 2)
+# 🤖 Chatbot for FAQs — 
 
-This project is part of the **CodeAlpha AI Internship**.  
 Task 2 delivers an end-to-end Jupyter Notebook (Task2(_Chatbot_for_FAQs).ipynb) that demonstrates building a reliable FAQ-oriented chatbot using retrieval and semantic matching techniques. The notebook focuses on practical data preparation, retrieval pipelines, evaluation, and guidance for simple deployment.
 
 ---
@@ -97,7 +96,6 @@ Task2(Chatbot_for_FAQs)/
 ## 📜 Author & Credits
 
 **👩‍💻 Khansa Urooj**  
-CodeAlpha — AI Internship (Task 2: Chatbot for FAQs)
 
 Special thanks to the CodeAlpha Internship program for guidance and resources.
 
@@ -105,7 +103,7 @@ Special thanks to the CodeAlpha Internship program for guidance and resources.
 
 ## 🧾 License
 
-Intended for educational purposes within the CodeAlpha Internship program. Please attribute the author when reusing or adapting the content.
+Please attribute the author when reusing or adapting the content.
 
 ---
 
