@@ -1,6 +1,5 @@
-# 🌐 Language Translation Tool — CodeAlpha AI Internship (Task 1)
+# 🌐 Language Translation Tool — 
 
-This project is part of the **CodeAlpha AI Internship**.<br>
 The goal is to build a simple and effective **Language Translation Tool** using Python and open-source libraries.
 
 ---
@@ -89,8 +88,8 @@ Notebook cells allow user to input text and select source/target languages.
 ## 📜 Author
 
 **👩‍💻 Khansa Urooj**  
-CodeAlpha — AI Internship (Task 1: Language Translation Tool)  
-🔗 [GitHub Repository](https://github.com/khansaurooj/CodeAlpha_AI_Internship)
+🔗 [GitHub Repository](https://github.com/khansaurooj/Artificial_Intelligence_Project/tree/main/Task01(LanguageTranslationTool).ipynb)
+
 
 ---
 
