@@ -1,6 +1,6 @@
 # 🎵 AI Music Generator — CodeAlpha AI Internship (Task 3)
 
-This project is part of the **CodeAlpha AI Internship**.  
+.  
 Task 3 demonstrates an end-to-end notebook implementation for generating short musical melodies using deep learning and sound synthesis tools. The notebook (TASK3_MusicGenerationwithAI.ipynb) contains the full walkthrough: environment setup, model definition and training, melody generation, MIDI/WAV conversion, and a simple interactive demo.
 
 ---
@@ -103,15 +103,14 @@ TASK3(MusicGenerationwithAI)/
 ## 🧾 Author & Credits
 
 **👩‍💻 Khansa Urooj**  
-CodeAlpha — AI Internship (Task 3: Music Generation with AI)  
+  
 
 Thanks to the CodeAlpha program for mentorship and resources.
 
 ---
 
 ## 🧾 License
-
-This project is intended for educational and demonstration purposes as part of the CodeAlpha AI Internship. Please attribute the author when reusing or adapting the content.
+ Please attribute the author when reusing or adapting the content.
 
 ---
 
